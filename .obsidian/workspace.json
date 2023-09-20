@@ -151,7 +151,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 379.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -163,7 +163,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "95f406785576c7ec",
+  "active": "a0b7fe962346cbba",
   "lastOpenFiles": [
     "Links.md",
     "Resources"

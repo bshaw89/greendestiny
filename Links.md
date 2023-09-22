@@ -17,3 +17,5 @@
 #### Pixel Art
 - Pixel Art Animation. Reinvented
 	- https://www.youtube.com/watch?v=HsOKwUwL1bE&t=73s
+- Glow Effect in Unity
+	- https://www.youtube.com/watch?v=WiDVoj5VQ4c
